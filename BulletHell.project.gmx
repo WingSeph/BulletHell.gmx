@@ -14,16 +14,25 @@
     <sound>sound\snd_explosion</sound>
   </sounds>
   <sprites name="sprites">
-    <sprite>sprites\spr_player</sprite>
-    <sprite>sprites\spr_enemy</sprite>
-    <sprite>sprites\spr_bullet</sprite>
-    <sprite>sprites\spr_wall</sprite>
     <sprite>sprites\spr_asteroid</sprite>
-    <sprite>sprites\spr_coin</sprite>
     <sprite>sprites\spr_boss</sprite>
-    <sprite>sprites\spr_defense</sprite>
+    <sprite>sprites\spr_bullet</sprite>
+    <sprite>sprites\spr_coin</sprite>
     <sprite>sprites\spr_debris</sprite>
+    <sprite>sprites\spr_min_captain</sprite>
+    <sprite>sprites\spr_min_elite</sprite>
+    <sprite>sprites\spr_min_machinegun</sprite>
+    <sprite>sprites\spr_min_master</sprite>
+    <sprite>sprites\spr_min_melee</sprite>
+    <sprite>sprites\spr_min_nimble</sprite>
+    <sprite>sprites\spr_min_slow</sprite>
+    <sprite>sprites\spr_min_strong</sprite>
+    <sprite>sprites\spr_min_zigzag</sprite>
+    <sprite>sprites\spr_player_s1</sprite>
+    <sprite>sprites\spr_player_s2</sprite>
+    <sprite>sprites\spr_player_s3</sprite>
     <sprite>sprites\spr_title</sprite>
+    <sprite>sprites\spr_wall</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\background0</background>
