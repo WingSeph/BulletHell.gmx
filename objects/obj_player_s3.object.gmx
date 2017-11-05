@@ -308,7 +308,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_enemy_melee">
+    <event eventtype="4" ename="obj_enemy_1melee">
       <action>
         <libid>1</libid>
         <id>203</id>
