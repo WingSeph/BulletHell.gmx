@@ -26,179 +26,6 @@
     </event>
   </entry>
   <entry>
-    <step>300</step>
-    <event>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>96</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>160</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>288</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>201</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>352</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-  </entry>
-  <entry>
     <step>600</step>
     <event>
       <action>
@@ -333,7 +160,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>288</string>
+            <string>228</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -372,262 +199,17 @@
     </event>
   </entry>
   <entry>
-    <step>900</step>
-    <event>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>96</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>160</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>352</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-  </entry>
-  <entry>
     <step>1200</step>
     <event>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -636,18 +218,6 @@
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -661,13 +231,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -678,16 +248,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>64</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -701,13 +287,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -718,16 +304,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>128</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -741,13 +343,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -758,16 +360,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>192</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -781,13 +399,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -798,20 +416,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>224</string>
+            <string>256</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -821,13 +427,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -838,65 +444,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>352</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-  </entry>
-  <entry>
-    <step>1500</step>
-    <event>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
+            <string>288</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -906,13 +455,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -923,20 +472,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>96</string>
+            <string>320</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -946,13 +483,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -961,138 +498,6 @@
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>160</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1111,13 +516,13 @@
     <event>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1126,18 +531,6 @@
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1151,13 +544,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1168,16 +561,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>64</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1191,13 +600,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1208,16 +617,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>128</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1231,13 +656,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1248,16 +673,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>192</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1271,13 +712,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1288,20 +729,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>224</string>
+            <string>256</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1311,13 +740,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1328,65 +757,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>352</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-    </event>
-  </entry>
-  <entry>
-    <step>2100</step>
-    <event>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
+            <string>288</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1396,13 +768,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1413,20 +785,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>96</string>
+            <string>320</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1436,13 +796,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1451,138 +811,6 @@
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>160</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>224</string>
-          </argument>
-          <argument>
-            <kind>0</kind>
-            <string>32</string>
-          </argument>
-        </arguments>
-      </action>
-      <action>
-        <libid>1</libid>
-        <id>207</id>
-        <kind>0</kind>
-        <userelative>-1</userelative>
-        <isquestion>0</isquestion>
-        <useapplyto>-1</useapplyto>
-        <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
-        <codestring></codestring>
-        <whoName>self</whoName>
-        <relative>0</relative>
-        <isnot>0</isnot>
-        <arguments>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1601,13 +829,13 @@
     <event>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1616,18 +844,6 @@
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1641,13 +857,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1658,16 +874,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>64</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1681,13 +913,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1698,16 +930,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>128</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1721,13 +969,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1738,16 +986,32 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>192</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1761,13 +1025,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1778,20 +1042,8 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
-          </argument>
-          <argument>
-            <kind>10</kind>
-            <object>obj_enemy_slow</object>
-          </argument>
-          <argument>
             <kind>0</kind>
-            <string>224</string>
+            <string>256</string>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1801,13 +1053,13 @@
       </action>
       <action>
         <libid>1</libid>
-        <id>207</id>
+        <id>201</id>
         <kind>0</kind>
         <userelative>-1</userelative>
         <isquestion>0</isquestion>
         <useapplyto>-1</useapplyto>
         <exetype>1</exetype>
-        <functionname>action_create_object_random</functionname>
+        <functionname>action_create_object</functionname>
         <codestring></codestring>
         <whoName>self</whoName>
         <relative>0</relative>
@@ -1818,16 +1070,60 @@
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
-            <kind>10</kind>
-            <object>obj_enemy_melee</object>
+            <kind>0</kind>
+            <string>288</string>
           </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
           <argument>
             <kind>10</kind>
             <object>obj_enemy_melee</object>
           </argument>
           <argument>
+            <kind>0</kind>
+            <string>320</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
             <kind>10</kind>
-            <object>obj_enemy_slow</object>
+            <object>obj_enemy_melee</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1860,7 +1156,147 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_boss_slow</object>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>64</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>96</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>128</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>160</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1868,7 +1304,175 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>-48</string>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>224</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>256</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>288</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>320</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_enemy_melee</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>352</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>201</id>
+        <kind>0</kind>
+        <userelative>-1</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_create_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>10</kind>
+            <object>obj_boss_slow</object>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>room_width/2</string>
+          </argument>
+          <argument>
+            <kind>0</kind>
+            <string>32</string>
           </argument>
         </arguments>
       </action>
