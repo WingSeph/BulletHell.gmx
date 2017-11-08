@@ -2848,7 +2848,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_boss_slow</object>
+            <object>obj_boss_1slow</object>
           </argument>
           <argument>
             <kind>0</kind>

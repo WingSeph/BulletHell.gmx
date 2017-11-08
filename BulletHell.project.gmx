@@ -15,6 +15,10 @@
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_asteroid</sprite>
+    <sprite>sprites\spr_boss_captain</sprite>
+    <sprite>sprites\spr_boss_elite</sprite>
+    <sprite>sprites\spr_boss_machinegun</sprite>
+    <sprite>sprites\spr_boss_master</sprite>
     <sprite>sprites\spr_boss_slow</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprite>sprites\spr_coin</sprite>
@@ -44,9 +48,11 @@
   </fonts>
   <objects name="objects">
     <object>objects\obj_asteroid</object>
-    <object>objects\obj_blast</object>
-    <object>objects\obj_boss_</object>
-    <object>objects\obj_boss_slow</object>
+    <object>objects\obj_boss_1slow</object>
+    <object>objects\obj_boss_2captain</object>
+    <object>objects\obj_boss_3machinegun</object>
+    <object>objects\obj_boss_4elite</object>
+    <object>objects\obj_boss_5master</object>
     <object>objects\obj_bullet_enemy</object>
     <object>objects\obj_bullet_enemy_tracking</object>
     <object>objects\obj_bullet_player</object>

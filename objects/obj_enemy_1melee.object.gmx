@@ -119,11 +119,11 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_blast</object>
+            <object>obj_noscoreenemy</object>
           </argument>
           <argument>
             <kind>10</kind>
-            <object>obj_blast</object>
+            <object>obj_noscoreenemy</object>
           </argument>
           <argument>
             <kind>10</kind>
