@@ -53,7 +53,7 @@
           </argument>
           <argument>
             <kind>0</kind>
-            <string>0.3</string>
+            <string>0.5</string>
           </argument>
         </arguments>
       </action>
@@ -281,7 +281,7 @@
         <arguments>
           <argument>
             <kind>0</kind>
-            <string>5</string>
+            <string>500</string>
           </argument>
         </arguments>
       </action>
@@ -302,6 +302,30 @@
           <argument>
             <kind>6</kind>
             <sound>snd_bossdeath</sound>
+          </argument>
+          <argument>
+            <kind>3</kind>
+            <string>0</string>
+          </argument>
+        </arguments>
+      </action>
+      <action>
+        <libid>1</libid>
+        <id>211</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>0</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_sound</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+        <arguments>
+          <argument>
+            <kind>6</kind>
+            <sound>snd_death2</sound>
           </argument>
           <argument>
             <kind>3</kind>
@@ -341,7 +365,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -369,7 +393,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -397,7 +421,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -425,7 +449,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -453,7 +477,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -481,7 +505,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -509,7 +533,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -537,7 +561,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -565,7 +589,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -593,7 +617,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -621,7 +645,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -649,7 +673,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_rocket_enemy</object>
+            <object>obj_bullet_rocket</object>
           </argument>
           <argument>
             <kind>0</kind>
@@ -1102,7 +1126,23 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_wall">
+    <event eventtype="4" ename="obj_misc_wall_ends">
+      <action>
+        <libid>1</libid>
+        <id>203</id>
+        <kind>0</kind>
+        <userelative>0</userelative>
+        <isquestion>0</isquestion>
+        <useapplyto>-1</useapplyto>
+        <exetype>1</exetype>
+        <functionname>action_kill_object</functionname>
+        <codestring></codestring>
+        <whoName>self</whoName>
+        <relative>0</relative>
+        <isnot>0</isnot>
+      </action>
+    </event>
+    <event eventtype="4" ename="obj_misc_wall">
       <action>
         <libid>1</libid>
         <id>102</id>

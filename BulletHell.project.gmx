@@ -5,13 +5,18 @@
   </Configs>
   <NewExtensions/>
   <sounds name="sound">
-    <sound>sound\snd_music</sound>
-    <sound>sound\snd_destroy</sound>
-    <sound>sound\snd_coins</sound>
+    <sound>sound\snd_asteroid</sound>
     <sound>sound\snd_bossdeath</sound>
     <sound>sound\snd_bossenter</sound>
-    <sound>sound\snd_asteroid</sound>
+    <sound>sound\snd_coins</sound>
+    <sound>sound\snd_death2</sound>
+    <sound>sound\snd_destroy</sound>
     <sound>sound\snd_explosion</sound>
+    <sound>sound\snd_laser1</sound>
+    <sound>sound\snd_laser2</sound>
+    <sound>sound\snd_laser3</sound>
+    <sound>sound\snd_laser4</sound>
+    <sound>sound\snd_music</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_asteroid</sprite>
@@ -48,21 +53,17 @@
     <font>fonts\ft_text</font>
   </fonts>
   <objects name="objects">
-    <object>objects\obj_asteroid</object>
     <object>objects\obj_boss_1slow</object>
     <object>objects\obj_boss_2captain</object>
     <object>objects\obj_boss_3machinegun</object>
     <object>objects\obj_boss_4elite</object>
     <object>objects\obj_boss_5master</object>
     <object>objects\obj_bullet_enemy</object>
-    <object>objects\obj_rocket_enemy</object>
     <object>objects\obj_bullet_enemy_tracking</object>
     <object>objects\obj_bullet_player</object>
     <object>objects\obj_bullet_player_left</object>
     <object>objects\obj_bullet_player_right</object>
-    <object>objects\obj_coin</object>
-    <object>objects\obj_debris</object>
-    <object>objects\obj_end</object>
+    <object>objects\obj_bullet_rocket</object>
     <object>objects\obj_enemy_1melee</object>
     <object>objects\obj_enemy_1slow</object>
     <object>objects\obj_enemy_2captain</object>
@@ -72,23 +73,39 @@
     <object>objects\obj_enemy_4elite</object>
     <object>objects\obj_enemy_4nimble</object>
     <object>objects\obj_enemy_5master</object>
-    <object>objects\obj_noscoreenemy</object>
+    <object>objects\obj_misc_asteroid</object>
+    <object>objects\obj_misc_coin</object>
+    <object>objects\obj_misc_debris</object>
+    <object>objects\obj_misc_noscoreenemy</object>
+    <object>objects\obj_misc_wall</object>
+    <object>objects\obj_misc_wall_ends</object>
     <object>objects\obj_player_s1</object>
     <object>objects\obj_player_s2</object>
     <object>objects\obj_player_s3</object>
     <object>objects\obj_playerwall</object>
-    <object>objects\obj_score</object>
-    <object>objects\obj_titlepage</object>
-    <object>objects\obj_wall</object>
-    <object>objects\obj_wall_ends</object>
-    <object>objects\parent_enemy</object>
-    <object>objects\parent_player</object>
     <object>objects\obj_timeline1</object>
     <object>objects\obj_timeline2</object>
+    <object>objects\obj_timeline3</object>
+    <object>objects\obj_timeline4</object>
+    <object>objects\obj_timeline5</object>
+    <object>objects\obj_visual_end</object>
+    <object>objects\obj_visual_round1</object>
+    <object>objects\obj_visual_round2</object>
+    <object>objects\obj_visual_round3</object>
+    <object>objects\obj_visual_round4</object>
+    <object>objects\obj_visual_round5</object>
+    <object>objects\obj_visual_score</object>
+    <object>objects\obj_visual_highscore</object>
+    <object>objects\obj_visual_titlepage</object>
+    <object>objects\parent_enemy</object>
+    <object>objects\parent_player</object>
   </objects>
   <timelines name="timelines">
     <timeline>timelines\timeline1</timeline>
     <timeline>timelines\timeline2</timeline>
+    <timeline>timelines\timeline3</timeline>
+    <timeline>timelines\timeline4</timeline>
+    <timeline>timelines\timeline5</timeline>
   </timelines>
   <rooms name="rooms">
     <room>rooms\rm_title_page</room>

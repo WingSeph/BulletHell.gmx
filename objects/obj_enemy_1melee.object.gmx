@@ -119,19 +119,19 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_noscoreenemy</object>
+            <object>obj_misc_noscoreenemy</object>
           </argument>
           <argument>
             <kind>10</kind>
-            <object>obj_noscoreenemy</object>
+            <object>obj_misc_noscoreenemy</object>
           </argument>
           <argument>
             <kind>10</kind>
-            <object>obj_debris</object>
+            <object>obj_misc_debris</object>
           </argument>
           <argument>
             <kind>10</kind>
-            <object>obj_coin</object>
+            <object>obj_misc_coin</object>
           </argument>
           <argument>
             <kind>0</kind>
