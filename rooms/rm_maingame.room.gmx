@@ -59,6 +59,7 @@
     <instance objName="obj_playerwall" x="192" y="32" name="inst_E9D54088" locked="0" code="" scaleX="12" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall_ends" x="192" y="1008" name="inst_FD6B0B05" locked="0" code="" scaleX="14" scaleY="2" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall_ends" x="192" y="-176" name="inst_05C40BFD" locked="0" code="" scaleX="14" scaleY="2" colour="4294967295" rotation="0"/>
+    <instance objName="obj_timeline1" x="32" y="64" name="inst_5E04F923" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
